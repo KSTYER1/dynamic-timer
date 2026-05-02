@@ -35,11 +35,11 @@ Windows
 
 ## Source Code URL
 
-TODO: add public GitHub repository URL
+https://github.com/KSTYER1/dynamic-timer
 
 ## Download URL
 
-TODO: add GitHub Release URL or upload the ZIP directly
+https://github.com/KSTYER1/dynamic-timer/releases/tag/v1.2.0
 
 ## Overview
 
@@ -138,11 +138,11 @@ plugin.
 
 ## Pre-Submit Checklist
 
-- [ ] Public GitHub repository exists.
-- [ ] README is visible on GitHub.
-- [ ] GPL license is visible on GitHub.
-- [ ] Source Code URL field points to the repository.
-- [ ] Release ZIP is attached to GitHub Releases or uploaded to the forum.
+- [x] Public GitHub repository exists.
+- [x] README is visible on GitHub.
+- [x] GPL license is visible on GitHub.
+- [x] Source Code URL field points to the repository.
+- [x] Release ZIP is attached to GitHub Releases or uploaded to the forum.
 - [ ] At least one screenshot/GIF is added to the resource description.
 - [ ] Description is in English.
 - [ ] No OBS logo is used as resource icon or marketing artwork.
